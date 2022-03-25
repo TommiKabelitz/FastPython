@@ -1,0 +1,6 @@
+*~
+# Compiled objects
+*.c
+*.o
+*.mod
+*.so

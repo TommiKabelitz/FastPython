@@ -1,0 +1,9 @@
+ Given input file is:input_lattice.lat
+ Reading from file
+ The file contains:
+          32
+          32
+          32
+          64
+ Beginning calculations...
+ Finished calculations
